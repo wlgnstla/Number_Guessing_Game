@@ -13,7 +13,7 @@ fn main() {
     //local number generator we can use the gen_range function to generate
     //a number between 1(inclusive) and 101(exclusive), we want the user to
     //guess a number between 1-100, so that's why we did so!
-    println!("Welcome to my Number Guessing Game!✿◠‿◠");
+    println!("Welcome to the Number Guessing Game!✿◠‿◠");
     println!("Now how about you go and give me a number between (1-100)?");
 
     loop 
