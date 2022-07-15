@@ -5,10 +5,10 @@ This is a series where we build mini-games/projects to help consolidate our unde
 
 This one is a Number Guessing Game written in Rust 🦀. If you want to play, here are the steps! <br><br>
 
-### Prerequisites
+## Prerequisites
 - Install Rustup [ Instructions can be found <a href="https://www.rust-lang.org/tools/install"> here</a> ]
 
-#### How to Play
+## How to Play
 1. Git clone this repo
 2. Change directory to "Number_Guessing_Game"
 3. In your terminal, type "cargo run"  (Cargo is a build system and package manager for Rust!)
